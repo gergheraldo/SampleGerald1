@@ -41,6 +41,7 @@ public class geraldTest1 {
 				//Label lblHelloWorld - new Label(shlSampleApp, SWT.NONE);
 				lblHelloWorld.setText("Hello World");
 				lblHelloWorld.setVisible(true);
+				System.out.println("I'm happy");
 			}
 		});
 		btnNewButton.setBounds(60, 66, 190, 58);
